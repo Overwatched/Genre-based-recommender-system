@@ -35,7 +35,7 @@ sudo pip install pandas
 ### Files
 * **splitData.py** Because of the un-orthodox usage of KNearestNeighbor the data has to be "manually" split
 * **System 1** Calculate genre based weights for each user, outputs the result numpy encoded in *testResult/system1_result* 
-* **System 2** Using the KnearestNeighbor, find X users that have the most similar genre preferences as you have, and give recommendations from them, based on most seen + highest rated combinations.
+* **System 2** Using the KnearestNeighbor, find X users that have the most similar genre preferences as you have, and give recommendations from them, based on most seen + highest rated combinations. Outputs a csv file *testResult/system2_result.csv* containing test results, how these where aquired can most easily be seen in the previously mentioned [paper](www.example.com), under the result chapter.
 ## Authors
 
 * **Ludwig Kamras** - *Cool guy* - [LinkedIn](https://github.com/PurpleBooth)
