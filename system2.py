@@ -5,9 +5,9 @@ from itertools import chain
 
 # Read static data-set files
 users_weight = np.genfromtxt('testResult/system1_result', delimiter=',')
-ub_base = pd.read_csv('train.csv', sep="\t", usecols=range(0, 3), header=None)
+ub_base = pd.read_csv('split/train.csv', sep="\t", usecols=range(0, 3), header=None)
 ub_base.columns = ["user id", "movie id", "rating"]
-ub_test = pd.read_csv('test.csv', sep="\t", usecols=range(0, 3), header=None)
+ub_test = pd.read_csv('split/test.csv', sep="\t", usecols=range(0, 3), header=None)
 ub_test.columns = ["user id", "movie id", "rating"]
 
 # Define datastructures

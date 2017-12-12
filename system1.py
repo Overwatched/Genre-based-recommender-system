@@ -29,7 +29,7 @@ def readData():
   movie_genre_data = 'ml-100k/u.genre'
   movie_item_data = 'ml-100k/u.item'
   movie_user_data = 'ml-100k/u.user'
-  movie_rating_data = 'train.csv'
+  movie_rating_data = 'split/train.csv'
   
     # Read data using pandas#
   movie_item = pd.read_csv(movie_item_data, sep="|", usecols=range(5, 24), header=None)
