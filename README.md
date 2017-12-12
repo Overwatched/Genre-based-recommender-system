@@ -1,7 +1,7 @@
 # Genre-based-recommendations
 
 This is a project that attempts to use Genres as a basis for recommendations, it uses the KNeighborsClassifier algorithm provided from the [scikit-learn](http://scikit-learn.org) library.
-Since the project uses the algorithm in, a bit of an un-orthodox fashion, some of the work (quite alot) have been done by manually. Testing the system using precision and recall metrics is also done manually. 
+Since the project uses the algorithm in, a bit of an un-orthodox fashion, some of the work (quite alot) has been done manually. Testing the system using precision and recall metrics is also done manually. 
 
 ## Getting Started
 If you are interested in continuing to work on this system (maybe using some other, more complex algorithm) feel free to do so. You can read more about the system in this [paper](www.example.com).
