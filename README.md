@@ -38,6 +38,6 @@ sudo pip install pandas
 * **System 2** Using the KnearestNeighbor, find X users that have the most similar genre preferences as you have, and give recommendations from them, based on most seen + highest rated combinations. Outputs a csv file *testResult/system2_result.csv* containing test results, how these where aquired can most easily be seen in the previously mentioned [paper](www.example.com), under the result chapter.
 ## Authors
 
-* **Ludwig Kamras** - *Cool guy* - [LinkedIn](https://github.com/PurpleBooth)
-* **William Matslova** - *Cooler guy* - [LinkedIn](https://github.com/PurpleBooth)
+* **Ludwig Kamras** - *Cool guy* - [LinkedIn](http://linkedin.com/in/kamras)
+* **William Matslova** - *Cooler guy* - [LinkedIn](https://www.linkedin.com/in/matslova/)
 
