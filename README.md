@@ -4,7 +4,7 @@ This is a project that attempts to use Genres as a basis for recommendations, it
 Since the project uses the algorithm in, a bit of an un-orthodox fashion, some of the work (quite alot) has been done manually. Testing the system using precision and recall metrics is also done manually. 
 
 ## Getting Started
-If you are interested in continuing to work on this system (maybe using some other, more complex algorithm) feel free to do so. You can read more about the system in this [paper](www.example.com).
+If you are interested in continuing to work on this system (maybe using some other, more complex algorithm) feel free to do so. You can read more about the system in this [paper](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1189454&dswid=8605).
 
 ### Prerequisites
 Currently the system is divided in two sub systems, namely **system 1 and 2**.
